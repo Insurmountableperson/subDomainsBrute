@@ -10,10 +10,12 @@ python3+subDomainsBrute
 - 扩展
 
 Install
+
 Python3.5+ users:
 
 pip install aiodns
-Python2 users
+
+Python2 users:
 
 pip install dnspython gevent
 
